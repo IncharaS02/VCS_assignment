@@ -14,13 +14,13 @@ My first GitHub repository for learning Version Control Systems and GitHub.
 Clone the repository:
 
 ```bash
-git clone https://github.com/IncharaS02/github-actions-practical.git
+git clone https://github.com/IncharaS02/VCS_assignment.git
 ```
 
 Navigate to the project folder:
 
 ```bash
-cd github-actions-practical
+cd VCS_assignment
 ```
 
 ## Usage
